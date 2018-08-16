@@ -15,3 +15,6 @@ In your pull request
 * Do not change the database.
 * Do not change or remove the NetworkLatencySimulationDbInterceptor.
 * Do not use any additional libraries (no additional nuget packages).
+
+## FYI
+The first time you start the app it may take a few seconds to generate the database.
